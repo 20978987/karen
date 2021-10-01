@@ -1,0 +1,20 @@
+﻿id,osm_id,amenity,name,takeaway,POINT_X,POINT_Y
+1,522274909,fast_food,McDonald's,yes,18.8606952,-33.9316178
+2,571360870,fast_food,Debonairs Pizza,yes,18.8520606,-33.9443343
+3,814836593,fast_food,Fantastic Food Court,,18.8591674,-33.9329014
+4,1313949654,fast_food,Lekkerhoekie,,18.9758404,-33.8651553
+5,1488474441,fast_food,Steers,,18.7125015,-33.8917802
+6,3684068826,fast_food,Steers,yes,18.8520723,-33.9443909
+7,3684069025,fast_food,Fishaways,,18.8520981,-33.9444395
+8,4204385692,fast_food,The Courtyard Market @ The Wood Mill,,18.8285840,-33.9429886
+9,6074242048,fast_food,Kentucky Fried Chicken,yes,18.8774177,-33.9264555
+10,6074242049,fast_food,Steers,yes,18.8775303,-33.9264443
+11,6074242050,fast_food,Nacional Fisheries,,18.8776054,-33.9264354
+12,6074242051,fast_food,Chinese Fu Long Take-Aways,,18.8776725,-33.9264265
+13,6635607480,fast_food,Romans Pizza,,18.8657205,-33.9327776
+14,6635612524,fast_food,Hungry Lion,,18.8592924,-33.9317758
+15,6635636316,fast_food,Romans Pizza,,18.8597009,-33.9306494
+16,6635651012,fast_food,Debonairs Pizza,yes,18.8598584,-33.9313715
+17,6635658263,fast_food,Prima Pizza,,18.8584646,-33.9022345
+18,6665305700,fast_food,Aleph Biltong,,18.8410949,-33.9649996
+19,429887856,fast_food,Kentucky Fried Chicken,yes,18.8484208,-33.9409105
